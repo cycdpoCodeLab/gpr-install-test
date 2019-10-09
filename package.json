@@ -1,0 +1,21 @@
+{
+  "name": "gpr-install-test",
+  "version": "0.0.1",
+  "description": "GitHub Package Registry Install Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cycdpoCodeLab/gpr-install-test.git"
+  },
+  "keywords": [
+    "gpr",
+    "test"
+  ],
+  "author": "cycjimmy <cycjimmy@gmail.com> (https://github.com/cycjimmy)",
+  "dependencies": {
+    "@cycjimmy/hello-github-package-npm": "^0.0.8"
+  }
+}
