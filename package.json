@@ -2,9 +2,9 @@
   "name": "gpr-install-test",
   "version": "0.0.1",
   "description": "GitHub Package Registry Install Test",
-  "main": "index.js",
+  "main": "tests/index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node tests/index.js"
   },
   "repository": {
     "type": "git",
@@ -16,6 +16,7 @@
   ],
   "author": "cycjimmy <cycjimmy@gmail.com> (https://github.com/cycjimmy)",
   "dependencies": {
+    "@cycjimmy/canvas-snow": "^1.0.2",
     "@cycjimmy/hello-github-package-npm": "^0.0.8"
   }
 }
