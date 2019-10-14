@@ -3,5 +3,6 @@
  
 ```shell
 $ npm install --registry=https://npm.pkg.github.com/
-$ npm install [-S|-D] [package-name] --registry=https://npm.pkg.github.com/
+$ npm install --registry=https://npm.pkg.github.com/ [-S|-D] [package-name] 
+$ npm install --registry=https://npm.pkg.github.com/ -S @cycjimmy/[package-name]
 ```

@@ -16,7 +16,15 @@
   ],
   "author": "cycjimmy <cycjimmy@gmail.com> (https://github.com/cycjimmy)",
   "dependencies": {
-    "@cycjimmy/canvas-snow": "^1.0.2",
-    "@cycjimmy/hello-github-package-npm": "^0.0.8"
+    "@cycjimmy/awesome-swiper": "^2.0.0",
+    "@cycjimmy/canvas-snow": "^1.0.0",
+    "@cycjimmy/h5-audio-controls": "^2.0.0",
+    "@cycjimmy/h5-preloader": "^1.0.0",
+    "@cycjimmy/hello-github-package-npm": "^0.0.8",
+    "@cycjimmy/jsmpeg-player": "^4.0.0",
+    "@cycjimmy/mini-xhr": "^2.0.0",
+    "@cycjimmy/simulate-chatting": "^1.0.0",
+    "@cycjimmy/swiper-animation": "^3.0.0",
+    "@cycjimmy/weixin-share": "^2.0.0"
   }
 }
