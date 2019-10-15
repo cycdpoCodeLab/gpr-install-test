@@ -20,6 +20,7 @@
     "@cycjimmy/canvas-snow": "^1.0.0",
     "@cycjimmy/h5-audio-controls": "^2.0.0",
     "@cycjimmy/h5-preloader": "^1.0.0",
+    "@cycjimmy/h5-video-player": "^2.0.0",
     "@cycjimmy/hello-github-package-npm": "^0.0.8",
     "@cycjimmy/jsmpeg-player": "^4.0.0",
     "@cycjimmy/mini-xhr": "^2.0.0",
