@@ -16,16 +16,19 @@
   ],
   "author": "cycjimmy <cycjimmy@gmail.com> (https://github.com/cycjimmy)",
   "dependencies": {
-    "@cycjimmy/awesome-swiper": "^2.0.0",
-    "@cycjimmy/canvas-snow": "^1.0.0",
-    "@cycjimmy/h5-audio-controls": "^2.0.0",
-    "@cycjimmy/h5-preloader": "^1.0.0",
-    "@cycjimmy/h5-video-player": "^2.0.0",
-    "@cycjimmy/hello-github-package-npm": "^0.0.8",
-    "@cycjimmy/jsmpeg-player": "^4.0.0",
-    "@cycjimmy/mini-xhr": "^2.0.0",
-    "@cycjimmy/simulate-chatting": "^1.0.0",
-    "@cycjimmy/swiper-animation": "^3.0.0",
-    "@cycjimmy/weixin-share": "^2.0.0"
+    "@cycjimmy/awesome-js-funcs": "^1.1.1",
+    "@cycjimmy/awesome-swiper": "^2.0.2",
+    "@cycjimmy/canvas-snow": "^1.0.5",
+    "@cycjimmy/config-lib": "^1.2.0",
+    "@cycjimmy/h5-audio-controls": "^2.0.3",
+    "@cycjimmy/h5-preloader": "^1.0.2",
+    "@cycjimmy/h5-video-player": "^2.1.0",
+    "@cycjimmy/hello-github-package-npm": "0.0.8",
+    "@cycjimmy/jsmpeg-player": "^4.0.2",
+    "@cycjimmy/mini-xhr": "^2.0.2",
+    "@cycjimmy/sass-lib": "^1.0.2",
+    "@cycjimmy/simulate-chatting": "^1.0.3",
+    "@cycjimmy/swiper-animation": "^3.1.1",
+    "@cycjimmy/weixin-share": "^2.0.2"
   }
 }
